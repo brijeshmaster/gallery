@@ -1,0 +1,23 @@
+*{
+
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.heading{
+  color: brown;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  padding: 60px;
+  
+}
+.img_div img{
+  height: 500;
+  width: 500;
+ 
+}
+.img_div{
+  text-align: center;
+ 
+}
