@@ -1,8 +1,13 @@
 import React from 'react'
+import Images from './Images'
+// import Test from './Test'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Images />
+      {/* <Test /> */}
+    </div>
   )
 }
 
